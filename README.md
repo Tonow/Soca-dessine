@@ -3,9 +3,15 @@
 [Base](https://docs.docker.com/compose/django/#create-a-django-project)
 
 
-### Referance
+### Référence
 
 [Ref 1](https://mmorejon.github.io/en/blog/start-django-project-with-docker/)
+
+[Utilisation de Django](https://docs.djangoproject.com/fr/2.0/topics/)
+
+[Création et utilisation de packet django](https://docs.djangoproject.com/fr/2.0/intro/reusable-apps/)
+
+[Tuto Django officiel](https://docs.djangoproject.com/fr/2.0/intro/tutorial01/)
 
 ### Composant:
  * Docker
